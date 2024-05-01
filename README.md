@@ -45,5 +45,5 @@
 <p align="center">
   -----------------------------------------------------<br>
   #1 Femboy on the World<br>
-  <img src='https://github.com/PayloadCrasher/PayloadCrasher/blob/main/rendercombined.png'>
+  <img src=''>
 </p>
