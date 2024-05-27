@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://count.getloli.com/get/@payloadcrasher?theme=rule34" alt="views" />
-  <img align="middle"  alt="discord" src="[https://discord.c99.nl/widget/theme-3/1063801507515998208.png](https://discord.c99.nl/widget/theme-2/1238193907095965807.png)">
+  <img align="right"  alt="discord" src="[https://discord.c99.nl/widget/theme-3/1063801507515998208.png](https://discord.c99.nl/widget/theme-2/1238193907095965807.png)">
   <br>
 </p>
 <p align="center">
